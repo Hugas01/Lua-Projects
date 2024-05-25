@@ -21,7 +21,7 @@ meItems = {
     [4] = {"Shaft", "create:shaft", "128"},
     [5] = {"Cogwheel", "create:cogwheel", "128"},
     [6] = {"Large Cogwheel", "create:large_cogwheel", "128"},
-    [7] = {"WOOL", "minecraft:white_wool", "128"},
+    [7] = {"White Wool", "minecraft:white_wool", "64"},
     [8] = {"Silicon", "ae2:silicon", "128"}
 }
 
