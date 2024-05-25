@@ -20,7 +20,9 @@ meItems = {
     [3] = {"Andesite Alloy", "create:andesite_alloy", "128"},
     [4] = {"Shaft", "create:shaft", "128"},
     [5] = {"Cogwheel", "create:cogwheel", "128"},
-    [6] = {"Large Cogwheel", "create:large_cogwheel", "128"}
+    [6] = {"Large Cogwheel", "create:large_cogwheel", "128"},
+    [7] = {"WOOL", "minecraft:white_wool", "128"},
+    [8] = {"Silicon", "ae2:silicon", "128"}
 }
 
 function checkMe(checkName, name, low)
